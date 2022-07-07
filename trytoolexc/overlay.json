@@ -1,0 +1,9 @@
+{
+  "replace": {
+    "a/a.go": "_overlay/a.go"
+    ,"/usr/local/go/src/fmt/doc.go": "_overlay/fmt.go"
+  },
+  "_": {
+	"_": "_"
+  }
+}
